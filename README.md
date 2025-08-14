@@ -1,5 +1,8 @@
 # Essay Writer
 
+[![Open Essay Writer Notebook](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rajsiddarth/agent-Essay-Writer/main?labpath=agent-%20Essay%20Writer.ipynb)
+
+
 **Essay Writer** generates high-quality, research-informed essays through a structured workflow.  
 It guides the user from topic planning to final revisions, integrating research queries and iterative critique handling.
 
