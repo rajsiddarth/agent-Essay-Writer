@@ -4,7 +4,7 @@ import json
 from typing import Any, Dict, List
 
 import streamlit as st
-from my_Agent import run_once, continue_run, list_threads  
+from my_agent import run_once, continue_run, list_threads  
 
 st.set_page_config(page_title="Agent Essay Writer", layout="wide")
 
